@@ -56,28 +56,28 @@
 			nextEl: '.swiper-button-next',
 			prevEl: '.swiper-button-prev',
 		},
-        spaceBetween: 25,
-        slidesPerView: 9,
+        spaceBetween: 2,
+        slidesPerView: 7,
 		breakpoints: {
             // when window is <= 516px
             516: {
                 slidesPerView: 3,
-                spaceBetween: 10
+                spaceBetween: 2
             },
             // when window is <= 767px
             767: {
                 slidesPerView: 4,
-                spaceBetween: 20
+                spaceBetween: 2
             },
             // when window is <= 991px
             991: {
                 slidesPerView: 5,
-                spaceBetween: 30
+                spaceBetween: 2
             },
             // when window is <= 1199px
             1199: {
-                slidesPerView: 8,
-                spaceBetween: 25
+                slidesPerView: 7,
+                spaceBetween: 2
             },
         }
     });
