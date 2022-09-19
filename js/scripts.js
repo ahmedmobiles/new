@@ -61,22 +61,22 @@
 		breakpoints: {
             // when window is <= 516px
             516: {
-                slidesPerView: 1,
+                slidesPerView: 3,
                 spaceBetween: 10
             },
             // when window is <= 767px
             767: {
-                slidesPerView: 2,
+                slidesPerView: 4,
                 spaceBetween: 20
             },
             // when window is <= 991px
             991: {
-                slidesPerView: 3,
+                slidesPerView: 5,
                 spaceBetween: 30
             },
             // when window is <= 1199px
             1199: {
-                slidesPerView: 9,
+                slidesPerView: 8,
                 spaceBetween: 25
             },
         }
