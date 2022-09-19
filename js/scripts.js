@@ -57,7 +57,7 @@
 			prevEl: '.swiper-button-prev',
 		},
         spaceBetween: 25,
-        slidesPerView: 6,
+        slidesPerView: 9,
 		breakpoints: {
             // when window is <= 516px
             516: {
@@ -76,8 +76,8 @@
             },
             // when window is <= 1199px
             1199: {
-                slidesPerView: 4,
-                spaceBetween: 30
+                slidesPerView: 9,
+                spaceBetween: 25
             },
         }
     });
